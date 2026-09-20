@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix Remix MAUSAM - Indian Weather Intelligence",
+  "description": "Clean, Google Weather-inspired Indian meteorological experience with Doppler radar, INSAT satellite views, Agro-Met advisories, and real-time forecasts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
